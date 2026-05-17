@@ -15,7 +15,7 @@
           }                                                                     
       }                                                           
       backend "s3" {
-          bucket       = "ecommerce-terraform-state-202951752028"               
+          bucket       = "ecommerce-terraform-state-875522883478"               
           key          = "terraform.tfstate"                                    
           region       = "eu-west-2"                                            
           use_lockfile = true                                                   
